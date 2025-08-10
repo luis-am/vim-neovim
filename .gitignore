@@ -1,6 +1,6 @@
 # Folders
-colors
-autoload
-plugged
+colors/
+autoload/
+plugged/
 
 # Files
