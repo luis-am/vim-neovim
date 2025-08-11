@@ -604,5 +604,3 @@ Poner entre comillas una oración, ejemplo NULL a ("")
     yss"
     Esta es una oración.
     "Esta es una oración."
-
-fucking cocksucker
